@@ -8,7 +8,7 @@ Se usaron los siguientes layouts:
 -Listview
 -TextField
 
-Captura de pantalla del programa en eejecucion:
+Captura de pantalla del programa en ejecucion:
 
 
 ![alt text](src/main/java/resources/img/ImagenEjecucionPromgrama.png)
